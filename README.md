@@ -1,8 +1,42 @@
-# React + Vite
+# Steps to Locally Run the Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Clone from  Github
 
-Currently, two official plugins are available:
+### Clone the Repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+``` bash
+git clone https://github.com/sagar1952115/widgets.git
+cd widgets
+```
+### Install Dependencies:
+
+``` bash
+npm install
+``` 
+### Run the Application:
+``` bash 
+npm run dev
+```
+
+### Open in Browser: Access the application at http://localhost:5173.
+
+
+## Clone from Zip file
+
+### Extract provided zip file.
+
+``` bash
+cd accuknox
+```
+### Install Dependencies:
+
+``` bash
+npm install
+``` 
+### Run the Application:
+``` bash 
+npm run dev
+```
+
+### Open in Browser: Access the application at http://localhost:5173.
+
